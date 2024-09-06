@@ -24,6 +24,7 @@
   tsserver.enable = true;
   solargraph.enable = true;
   tailwindcss.enable = true;
+  bazelrc_lsp.enable = true;
   rust-analyzer = {
     enable = true;
     installCargo = true;
